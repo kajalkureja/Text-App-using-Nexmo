@@ -2,8 +2,6 @@
 
 Node.js app that uses Nexmo to send SMS text messages
 
-### Version
-1.0.0
 
 ## Usage
 
@@ -26,16 +24,3 @@ $ npm start
 
 ### Nexmo API Keys
 You will need to add your own Nexmo api key, secret and virtual number
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the MIT License
